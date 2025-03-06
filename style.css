@@ -82,7 +82,7 @@ span{
 }
 .home-img img{
     margin-left: 80px;
-    width:40vw;
+    width:25vw;
     animation: floatImage 4s ease-in-out infinite;
     border-radius: 30%;
 }
@@ -145,7 +145,7 @@ span{
     background: var(--sn-bf-color);
 }
 .about-img img{
-    width: 50vw;
+    width: 25vw;
     border-radius: 50%;
 }
 .heading{
